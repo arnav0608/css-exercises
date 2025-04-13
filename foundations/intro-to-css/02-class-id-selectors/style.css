@@ -1,0 +1,19 @@
+.odd-numbered{
+    /* background-color: rgb(rgb(236, 153, 174), green, blue); */
+    background-color: rgb(236, 153, 174);
+    font-family: Verdana , DejaVu Sans , sans-serif ;
+
+}
+#Blue{
+    color: rgb(0,0,225);
+    font-size: 36px;
+}
+
+.Bigger{
+    font-size: 24px;
+}
+
+#light-green{
+    background-color:  rgb(101, 233, 101);
+    font-weight: bold;
+}
